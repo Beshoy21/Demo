@@ -65,8 +65,8 @@ margin: 0 auto;
 
 
 header{
-background-image: url("../images/overlay.png") ,
-         url("../images/banner.jpg");
+background-image: url("./overlay.png") ,
+         url("./banner.jpg");
          text-align: center;
          color: #fff;
          background-size: cover;
